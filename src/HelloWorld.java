@@ -1,6 +1,3 @@
-package javagym;
-
-
 public class HelloWorld {
 
     public static void main(String[] args) {
